@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tasty-treats/static/css/main.e6c13ad2.css",
+    "main.js": "/tasty-treats/static/js/main.50a4c4aa.js",
+    "index.html": "/tasty-treats/index.html",
+    "main.e6c13ad2.css.map": "/tasty-treats/static/css/main.e6c13ad2.css.map",
+    "main.50a4c4aa.js.map": "/tasty-treats/static/js/main.50a4c4aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.50a4c4aa.js"
+  ]
+}
