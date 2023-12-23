@@ -7,6 +7,7 @@ const GlobalStyles = createGlobalStyle`
   body {
   font-family: 'Inter', sans-serif;
   color: ${colors.primaryTtextColor};
+  background:${colors.backgroundLight} ;
   margin: 0;
   padding: 0;
    
@@ -35,5 +36,4 @@ ul {
   list-style-type: none;
 }
 `;
-
 export default GlobalStyles;
