@@ -4,8 +4,8 @@ import variables from '../../styles/variables';
 const { colors } = variables;
 
 export const BtnMenu = styled.button`
-  width: 24px;
-  height: 24px;
+  width: 32px;
+  height: 32px;
   padding: 0px;
   border: none;
   background: ${colors.backgroundLight};
