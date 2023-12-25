@@ -1,9 +1,11 @@
 import { createGlobalStyle } from 'styled-components';
+import modernNormalize from 'modern-normalize';
 import variables from './variables';
 
 const { colors } = variables;
 
 const GlobalStyles = createGlobalStyle`
+ ${modernNormalize}
   body {
   font-family: 'Inter', sans-serif;
   color: ${colors.primaryTtextColor};
