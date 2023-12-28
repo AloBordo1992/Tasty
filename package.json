@@ -2,7 +2,7 @@
   "name": "tasty-treats",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mrcolti4.github.io/tasty-treats",
+  "homepage": "https://AloBordo1992.github.io/tasty-treats",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
